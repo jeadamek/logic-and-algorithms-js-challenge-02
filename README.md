@@ -13,7 +13,7 @@
 
 ## ✏️ About
 
-This is a project developed on Stage 4 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's projects click on this [link](https://github.com/jeadamek/explorer-rocketseat). 
+This project was developed on Stage 4 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course’s assignments click [this link](https://github.com/jeadamek/explorer-rocketseat).
 
 The main goal of the challenge is to practice logic and algorithms using JavaScript language..
 
